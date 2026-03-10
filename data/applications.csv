@@ -1,0 +1,21 @@
+application_id,application_name,department,business_criticality,data_sensitivity
+app0,SAP Finance,Operations,MEDIUM,LOW
+app1,Workday HR,HR,MEDIUM,LOW
+app2,ServiceNow,HR,HIGH,HIGH
+app3,Salesforce,Finance,MEDIUM,LOW
+app4,Splunk,Logistics,MEDIUM,LOW
+app5,Vessel Tracking,HR,MEDIUM,MEDIUM
+app6,Customs Clearance,HR,HIGH,HIGH
+app7,AML Monitoring,Compliance,HIGH,LOW
+app8,Board Portal,Logistics,MEDIUM,LOW
+app9,Procurement Hub,Finance,LOW,LOW
+app10,Customer Claims Portal,Finance,HIGH,MEDIUM
+app11,Legal Repository,Procurement,LOW,LOW
+app12,Logistics Planning,Compliance,MEDIUM,LOW
+app13,Fleet Operations,Operations,MEDIUM,HIGH
+app14,Risk Dashboard,Procurement,LOW,LOW
+app15,Vendor Portal,Legal,LOW,MEDIUM
+app16,HR Analytics,Legal,LOW,MEDIUM
+app17,Finance BI,HR,HIGH,MEDIUM
+app18,Container Tracking,Operations,MEDIUM,MEDIUM
+app19,Security Monitoring,HR,LOW,HIGH

@@ -1,0 +1,19 @@
+# Data and local CSV files
+#data/
+#*.csv
+
+# Output and build artifacts
+#output/
+#*.html
+
+# Python specific
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+
+# Editor specific
+.vscode/
+.idea/
