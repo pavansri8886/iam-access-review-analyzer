@@ -32,27 +32,6 @@ This pipeline builds that view from scratch — ingesting from 5 sources, mergin
 | MEDIUM severity findings | **152** |
 
 ---
-
-## Governance Findings
-
-### Findings by Gap Type
-
-![Gap Type Chart](docs/gap_type_chart.png)
-
-### Risk Severity Distribution
-
-![Severity Donut](docs/severity_donut.png)
-
-### Findings by Department
-
-![Department Chart](docs/dept_chart.png)
-
-### Top Applications by Risk Exposure
-
-![Application Chart](docs/app_chart.png)
-
----
-
 ## Architecture
 
 ```mermaid
